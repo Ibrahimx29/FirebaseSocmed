@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395799558217",
+    "project_id": "minimal-social-app-ce004",
+    "storage_bucket": "minimal-social-app-ce004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395799558217:android:8aa18c7563168b70202798",
+        "android_client_info": {
+          "package_name": "com.example.minimal_socmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWkmfHk7batOTK7XvngMKIAvfWSkrenfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
